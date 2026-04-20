@@ -1,0 +1,3 @@
+// Enable the save button
+document.querySelector('#download').disabled = false;
+document.querySelector('#download').click();
